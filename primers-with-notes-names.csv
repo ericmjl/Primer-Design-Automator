@@ -1,0 +1,123 @@
+name,construct number,part number,length,notes,primer sequence,direction
+EMP732,1,1,60,Fw primer on pJT118 to extract LacZ CDS,TTTAATTACTAACTTTATCTATGATAGATCCCGTCGTTTTACAACGTCGTGACTGGGAAA,fw primer
+EMP763,1,1,60,Re Gibson primer on pJT118 to extract LacZ CDS,attaccgcctttgagtgagcTTAGACTCGAGCGGCCGCTTTTTGACACCAGACCAACTGG,re primer
+EMP734,1,2,60,"Fw primer on pEM124 to extract P(cpcG2) promoter, IncW backbone and TpR resistance",AAGCGGCCGCTCGAGTCTAAgctcactcaaaggcggtaatcagataaaaaaaatccttag,fw primer
+EMP735,1,2,60,"Re primer on pEM124 to extract P(cpcG2) promoter, IncW backbone and TpR resistance",AAAACGACGGGATCTATCATAGATAAAGTTAGTAATTAAACTTAAAAGTTGTTTAATGTC,re primer
+EMP764,2,1,60,Fw Gibson primer on pC10-03 to extract Red firefly luciferase output,TACGACTCACTATAGGGAGAtactagagttaaggaggtaaaaaaaatgggtccggtcgtt,fw primer
+EMP765,2,1,60,Re Gibson primer on pC10-03 to extract Red firefly luciferase output,GGGGTTATGCTActctagtattattacaacttggatttaccacctttcttcgccttgatc,re primer
+EMP766,2,2,60,Fw Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,gtaaatccaagttgtaataatactagagTAGCATAACCCCTTGGGGCCTCTAAACGGGTC,fw primer
+EMP767,2,2,60,Re Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,ttacctccttaactctagtaTCTCCCTATAGTGAGTCGTATTACTCTAGAAGCGGCCGCg,re primer
+EMP768,3,1,60,Fw Gibson primer on pC10-03 to extract Red firefly luciferase output,TAACTATCACTATAGGGAGAtactagagttaaggaggtaaaaaaaatgggtccggtcgtt,fw primer
+EMP765,3,1,60,Re Gibson primer on pC10-03 to extract Red firefly luciferase output,GGGGTTATGCTActctagtattattacaacttggatttaccacctttcttcgccttgatc,re primer
+EMP766,3,2,60,Fw Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,gtaaatccaagttgtaataatactagagTAGCATAACCCCTTGGGGCCTCTAAACGGGTC,fw primer
+EMP769,3,2,60,Re Gibson primer on pEM114 to extract K1F promoter and backbone and CmR resistance,ttacctccttaactctagtaTCTCCCTATAGTGATAGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP770,4,1,60,Fw Gibson primer on pC10-03 to extract Red firefly luciferase output,TAACCCTCACTATAGGGAGAtactagagttaaggaggtaaaaaaaatgggtccggtcgtt,fw primer
+EMP765,4,1,60,Re Gibson primer on pC10-03 to extract Red firefly luciferase output,GGGGTTATGCTActctagtattattacaacttggatttaccacctttcttcgccttgatc,re primer
+EMP766,4,2,60,Fw Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,gtaaatccaagttgtaataatactagagTAGCATAACCCCTTGGGGCCTCTAAACGGGTC,fw primer
+EMP771,4,2,60,Re Gibson primer on pEM115 to extract T3 promoter and backbone and CmR resistance,ttacctccttaactctagtaTCTCCCTATAGTGAGGGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP772,5,1,60,Fw Gibson primer on pC10-13 to extract Vibrio luciferase operon,TACGACTCACTATAGGGAGAttaaggaggtaaaaaaaatgaacaaatgcatcccgatgat,fw primer
+EMP773,5,1,60,Re Gibson primer on pC10-13 to extract Vibrio luciferase operon,GGGGTTATGCTActctagtattattaggtatattccatgtggtacttcttaatattatca,re primer
+EMP774,5,2,60,Fw Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,acatggaatatacctaataatactagagTAGCATAACCCCTTGGGGCCTCTAAACGGGTC,fw primer
+EMP775,5,2,60,Re Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGAGTCGTATTACTCTAGAAGCGGCCGCg,re primer
+EMP776,6,1,60,Fw Gibson primer on pC10-13 to extract Vibrio luciferase operon,TAACTATCACTATAGGGAGAttaaggaggtaaaaaaaatgaacaaatgcatcccgatgat,fw primer
+EMP773,6,1,60,Re Gibson primer on pC10-13 to extract Vibrio luciferase operon,GGGGTTATGCTActctagtattattaggtatattccatgtggtacttcttaatattatca,re primer
+EMP774,6,2,60,Fw Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,acatggaatatacctaataatactagagTAGCATAACCCCTTGGGGCCTCTAAACGGGTC,fw primer
+EMP777,6,2,60,Re Gibson primer on pEM114 to extract K1F promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGATAGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP778,7,1,60,Fw Gibson primer on pC10-13 to extract Vibrio luciferase operon,TAACCCTCACTATAGGGAGAttaaggaggtaaaaaaaatgaacaaatgcatcccgatgat,fw primer
+EMP773,7,1,60,Re Gibson primer on pC10-13 to extract Vibrio luciferase operon,GGGGTTATGCTActctagtattattaggtatattccatgtggtacttcttaatattatca,re primer
+EMP774,7,2,60,Fw Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,acatggaatatacctaataatactagagTAGCATAACCCCTTGGGGCCTCTAAACGGGTC,fw primer
+EMP779,7,2,60,Re Gibson primer on pEM115 to extract T3 promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGAGGGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP780,8,1,60,Fw Gibson30 primer on EMP700 to extract P(cpcG2) with swapped cpcG2 and interfering promoter,cggttctggcaaatattctgaaatgagctgCCTCCACTAAAAGAATTCTCATtTTCTTCA,fw primer
+EMP781,8,1,60,Re Gibson30 primer on EMP700 to extract P(cpcG2) with swapped cpcG2 and interfering promoter,gcggagatccgcaggcttgataaacaacatAAAACGACGGGATCTATCATaGGGGGAGAA,re primer
+EMP782,8,2,60,Fw Gibson30 primer on pEM124 to extract K1F CDS and IncW backbone and TpR resistance,TTCTCCCCCtATGATAGATCCCGTCGTTTTatgttgtttatcaagcctgcggatctccgc,fw primer
+EMP783,8,2,60,Re Gibson30 primer on pEM124 to extract K1F CDS and IncW backbone and TpR resistance,TGAAGAAaATGAGAATTCTTTTAGTGGAGGcagctcatttcagaatatttgccagaaccg,re primer
+EMP780,9,1,60,Fw Gibson30 primer on EMP700 to extract P(cpcG2) with swapped cpcG2 and interfering promoter,cggttctggcaaatattctgaaatgagctgCCTCCACTAAAAGAATTCTCATtTTCTTCA,fw primer
+EMP784,9,1,60,Re Gibson30 primer on EMP700 to extract P(cpcG2) with swapped cpcG2 and interfering promoter,acgactccaattgagctactggtttggataAAAACGACGGGATCTATCATaGGGGGAGAA,re primer
+EMP785,9,2,60,Fw Gibson30 primer on pEM125 to extract T7 CDS and IncW backbone and TpR resistance,TTCTCCCCCtATGATAGATCCCGTCGTTTTtatccaaaccagtagctcaattggagtcgt,fw primer
+EMP783,9,2,60,Re Gibson30 primer on pEM124 to extract K1F CDS and IncW backbone and TpR resistance,TGAAGAAaATGAGAATTCTTTTAGTGGAGGcagctcatttcagaatatttgccagaaccg,re primer
+EMP747,10,1,60,Fw primer on EMP700 to extract P(cpcG2) with swapped cpcG2 and interfering promoter,TCCACTAAAAGAATTCTCATCCTCCACTAAAAGAATTCTCATtTTCTTCAATTTTACTTT,fw primer
+EMP748,10,1,60,Re primer on EMP700 to extract P(cpcG2) with swapped cpcG2 and interfering promoter,AAAACGACGGGATCTATCATAAAACGACGGGATCTATCATaGGGGGAGAAAATCGTAAAG,re primer
+EMP749,10,2,60,"Fw primer on pJT118 to extract LacZ CDS, ColE1, CmR, green sensor components",ATGATAGATCCCGTCGTTTTATGATAGATCCCGTCGTTTTACAACGTCGTGACTGGGAAA,fw primer
+EMP750,10,2,60,"Re primer on pJT118 to extract LacZ CDS, ColE1, CmR, green sensor components",GAGAATTCTTTTAGTGGAGGATGAGAATTCTTTTAGTGGAGGATGATTTGCCGCTGGCGG,re primer
+EMP786,11,1,60,Fw Gibson primer on pEM096 to extract Amp resistance marker,ttgcgcaagcggtctccaatttattaccaatgcttaatcagggaggcacctatctcagcg,fw primer
+EMP787,11,1,60,Re Gibson primer on pEM096 to extract Amp resistance marker,gatgaggatcgtttcgcatgctaaatacattcaaatatctatccgctcatgagacaataa,re primer
+EMP788,11,2,60,Fw Gibson primer on THSS301 to extract BAC and R6K origins and T7 RNAP core,agatatttgaatgtatttagcatgcgaaacgatcctcatcctgtctcttgatcagatctt,fw primer
+EMP789,11,2,60,Re Gibson primer on THSS301 to extract BAC and R6K origins and T7 RNAP core,tgattaagcattggtaataaattggagaccgcttgcgcaagatccggccacgatgcgtcc,re primer
+EMP790,12,1,60,Fw Gibson primer on pEM096 to extract Amp resistance marker,gtttgtcggtgaactaattCttattaccaatgcttaatcagggaggcacctatctcagcg,fw primer
+EMP787,12,1,60,Re Gibson primer on pEM096 to extract Amp resistance marker,gatgaggatcgtttcgcatgctaaatacattcaaatatctatccgctcatgagacaataa,re primer
+EMP788,12,2,60,Fw Gibson primer on THSS301 to extract BAC and R6K origins and T7 RNAP core,agatatttgaatgtatttagcatgcgaaacgatcctcatcctgtctcttgatcagatctt,fw primer
+EMP791,12,2,60,Re Gibson primer on THSS301 to extract BAC origin and T7 RNAP core,tgattaagcattggtaataaGaattagttcaccgacaaacaacagataaaacgaaaggcc,re primer
+EMP792,15,1,60,Fw Gibson primer on KT-587 to extract vioABE pathway with random nucleotide spacers,aaggaatattcagcaatttgGTTGGGGATAGCGCTAGCTATAATAactaTCACTATAGGG,fw primer
+EMP793,15,1,60,Re Gibson primer on KT-587 to extract vioABE pathway with random nucleotide spacers,gggcctttcttcggcacgggGTTGTAGCAGGCGTCTTTGTCAAAAAACCCCTCAAGACCC,re primer
+EMP794,15,2,60,Fw Gibson primer on KT-537 to extract lycopene pathway (crtE.B.I.dxs.idi),ACAAAGACGCCTGCTACAACcccgtgccgaagaaaggcccacccgtgaaggtgagccagt,fw primer
+EMP795,15,2,60,Re Gibson primer on KT-537 to extract lycopene pathway (crtE.B.I.dxs.idi),gaggtcattactggatctaTcaacaggagtccaagcgagctcgtaaacttggtctgacag,re primer
+EMP796,15,3,60,Fw Gibson primer on KT-537 to extract pSC101 origin of replication and CmR resistance marker,gctcgcttggactcctgttgAtagatccagtaatgacctcagaactccatctggatttgt,fw primer
+EMP797,15,3,60,Re Gibson primer on KT-537 to extract pSC101 origin of replication and CmR resistance marker,TAGCTAGCGCTATCCCCAACcaaattgctgaatattccttttcttagacgtcaggtggca,re primer
+EMP798,16,1,60,Fw Gibson primer on THSS303 to extract P(tac)-SynZip18-T7 fragment,aaatattctgaaatgagctgttgacaattaatcatcggctcgtataatgtgtggaattgt,fw primer
+EMP799,16,1,60,Re Gibson primer on THSS303 to extract P(tac)-SynZip18-T7 fragment,attaccgcctttgagtgagccccaatgataaccccaagggaagttttagtcaaaagcctc,re primer
+EMP800,16,2,60,Fw Gibson primer on pEM103 to extract IncW backbone and TpR resistance and lacIq,cccttggggttatcattggggctcactcaaaggcggtaatcagataaaaaaaatccttag,fw primer
+EMP801,16,2,60,Re Gibson primer on pEM103 to extract IncW backbone and TpR resistance and lacIq,agccgatgattaattgtcaacagctcatttcagaatatttgccagaaccgttatgatgtc,re primer
+EMP798,17,1,60,Fw Gibson primer on THSS303 to extract P(tac)-SynZip18-T7 fragment,aaatattctgaaatgagctgttgacaattaatcatcggctcgtataatgtgtggaattgt,fw primer
+EMP799,17,1,60,Re Gibson primer on THSS303 to extract P(tac)-SynZip18-T7 fragment,attaccgcctttgagtgagccccaatgataaccccaagggaagttttagtcaaaagcctc,re primer
+EMP800,17,2,60,Fw Gibson primer on pEM103 to extract IncW backbone and TpR resistance and lacIq,cccttggggttatcattggggctcactcaaaggcggtaatcagataaaaaaaatccttag,fw primer
+EMP801,17,2,60,Re Gibson primer on pEM103 to extract IncW backbone and TpR resistance and lacIq,agccgatgattaattgtcaacagctcatttcagaatatttgccagaaccgttatgatgtc,re primer
+EMP798,18,1,60,Fw Gibson primer on THSS303 to extract P(tac)-SynZip18-T7 fragment,aaatattctgaaatgagctgttgacaattaatcatcggctcgtataatgtgtggaattgt,fw primer
+EMP799,18,1,60,Re Gibson primer on THSS303 to extract P(tac)-SynZip18-T7 fragment,attaccgcctttgagtgagccccaatgataaccccaagggaagttttagtcaaaagcctc,re primer
+EMP800,18,2,60,Fw Gibson primer on pEM103 to extract IncW backbone and TpR resistance and lacIq,cccttggggttatcattggggctcactcaaaggcggtaatcagataaaaaaaatccttag,fw primer
+EMP801,18,2,60,Re Gibson primer on pEM103 to extract IncW backbone and TpR resistance and lacIq,agccgatgattaattgtcaacagctcatttcagaatatttgccagaaccgttatgatgtc,re primer
+EMP802,19,1,60,Fw Gibson primer on pEM113 to extract LacZ CDS and RBS,GGCCCCAAGGGGTTATGCTATTAGACTCGAGCGGCCGCTTTTTGACACCAGACCAACTGG,fw primer
+EMP639,19,1,60,"Fw primer on pJT106b to extract LacZ, also contains T7 promoter sequence.",TACGACTCACTATAGGGAGATACTGGAGaaagaggagaaatactagagATGATAGATCCC,re primer
+EMP803,19,2,60,Fw Gibson primer on THSS309 to extract Part of Backbone,tttctcctctttCTCCAGTATCTCCCTATAGTGAGTCGTATTActcgaggtgaagacgaa,fw primer
+EMP804,19,2,60,Re Gibson primer on THSS309 to extract Part of Backbone,ctcttacgtgcccgatcaacaatattattgaagcatttatcgcgaaacgatcctcatcct,re primer
+EMP805,19,3,60,Fw Gibson primer on pEM113 to extract CmR resistance,ataaatgcttcaataatattgttgatcgggcacgtaagaggttccaactttcaccataat,fw primer
+EMP806,19,3,60,Re Gibson primer on pEM113 to extract CmR resistance,ctcgaaccccagagtcccgcttattacgccccgccctgccactcatcacagtactgttgt,re primer
+EMP807,19,4,60,Fw Gibson primer on THSS309 to extract pSC101 origin of replication,ggcagggcggggcgtaataagcgggactctggggttcgagagctcgcttggactcctgtt,fw primer
+EMP808,19,4,60,Re Gibson primer on THSS309 to extract pSC101 origin of replication,AAGCGGCCGCTCGAGTCTAATAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,re primer
+EMP809,20,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,ttttcgcggccaagcgctaaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP775,20,1,60,Re Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGAGTCGTATTACTCTAGAAGCGGCCGCg,re primer
+EMP810,20,2,60,Fw Gibson primer on BBa_K274002 to extract vioABCDE operon,TACGACTCACTATAGGGAGAttaaggaggtaaaaaaaatgaaacattcttccgatatctg,fw primer
+EMP811,20,2,60,Re Gibson primer on BBa_K274002 to extract vioABCDE operon,GGCCCCAAGGGGTTATGCTAttagcgcttggccgcgaaaaccgcgtccgggatctccgcc,re primer
+EMP809,21,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,ttttcgcggccaagcgctaaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP777,21,1,60,Re Gibson primer on pEM114 to extract K1F promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGATAGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP812,21,2,60,Fw Gibson primer on BBa_K274002 to extract vioABCDE operon,TAACTATCACTATAGGGAGAttaaggaggtaaaaaaaatgaaacattcttccgatatctg,fw primer
+EMP811,21,2,60,Re Gibson primer on BBa_K274002 to extract vioABCDE operon,GGCCCCAAGGGGTTATGCTAttagcgcttggccgcgaaaaccgcgtccgggatctccgcc,re primer
+EMP809,22,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,ttttcgcggccaagcgctaaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP775,22,1,60,Re Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGAGTCGTATTACTCTAGAAGCGGCCGCg,re primer
+EMP810,22,2,60,Fw Gibson primer on BBa_K274002 to extract vioABCDE operon,TACGACTCACTATAGGGAGAttaaggaggtaaaaaaaatgaaacattcttccgatatctg,fw primer
+EMP811,22,2,60,Re Gibson primer on BBa_K274002 to extract vioABCDE operon,GGCCCCAAGGGGTTATGCTAttagcgcttggccgcgaaaaccgcgtccgggatctccgcc,re primer
+EMP809,23,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,ttttcgcggccaagcgctaaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP777,23,1,60,Re Gibson primer on pEM114 to extract K1F promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGATAGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP812,23,2,60,Fw Gibson primer on BBa_K274002 to extract vioABCDE operon,TAACTATCACTATAGGGAGAttaaggaggtaaaaaaaatgaaacattcttccgatatctg,fw primer
+EMP811,23,2,60,Re Gibson primer on BBa_K274002 to extract vioABCDE operon,GGCCCCAAGGGGTTATGCTAttagcgcttggccgcgaaaaccgcgtccgggatctccgcc,re primer
+EMP813,24,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,tggaggatctgatataataaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP814,24,1,60,Re Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,agaccgtcatctagtacctcTCTCCCTATAGTGAGTCGTATTACTCTAGAAGCGGCCGCg,re primer
+EMP815,24,2,60,Fw Gibson primer on BBa_K274100 to extract crtEBI operon,TACGACTCACTATAGGGAGAgaggtactagatgacggtctgcgcaaaaaaacacgttcat,fw primer
+EMP816,24,2,60,Re Gibson primer on BBa_K274100 to extract crtEBI operon,GGCCCCAAGGGGTTATGCTAttattatatcagatcctccagcatcaaacctgctgtcgct,re primer
+EMP813,25,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,tggaggatctgatataataaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP817,25,1,60,Re Gibson primer on pEM114 to extract CmR resistance and pSC101 backbone and K1F promoter and term.,agaccgtcatctagtacctcTCTCCCTATAGTGATAGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP818,25,2,60,Fw Gibson primer on BBa_K274100 to extract crtEBI operon,TAACTATCACTATAGGGAGAgaggtactagatgacggtctgcgcaaaaaaacacgttcat,fw primer
+EMP816,25,2,60,Re Gibson primer on BBa_K274100 to extract crtEBI operon,GGCCCCAAGGGGTTATGCTAttattatatcagatcctccagcatcaaacctgctgtcgct,re primer
+EMP809,26,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,ttttcgcggccaagcgctaaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP775,26,1,60,Re Gibson primer on pEM113 to extract T7 promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGAGTCGTATTACTCTAGAAGCGGCCGCg,re primer
+EMP810,26,2,60,Fw Gibson primer on BBa_K274002 to extract vioABCDE operon,TACGACTCACTATAGGGAGAttaaggaggtaaaaaaaatgaaacattcttccgatatctg,fw primer
+EMP811,26,2,60,Re Gibson primer on BBa_K274002 to extract vioABCDE operon,GGCCCCAAGGGGTTATGCTAttagcgcttggccgcgaaaaccgcgtccgggatctccgcc,re primer
+EMP809,27,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and T7 promoter and term.,ttttcgcggccaagcgctaaTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGG,fw primer
+EMP777,27,1,60,Re Gibson primer on pEM114 to extract K1F promoter and backbone and CmR resistance,cattttttttacctccttaaTCTCCCTATAGTGATAGTTATTACTCTAGAAGCGGCCGCg,re primer
+EMP812,27,2,60,Fw Gibson primer on BBa_K274002 to extract vioABCDE operon,TAACTATCACTATAGGGAGAttaaggaggtaaaaaaaatgaaacattcttccgatatctg,fw primer
+EMP811,27,2,60,Re Gibson primer on BBa_K274002 to extract vioABCDE operon,GGCCCCAAGGGGTTATGCTAttagcgcttggccgcgaaaaccgcgtccgggatctccgcc,re primer
+EMP819,28,1,60,Fw Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and B0054 terminator,tggaggatctgatataataaattagcagaaagtcaaaagcctccgaccggaggcttttga,fw primer
+EMP820,28,1,60,Re Gibson primer on pEM113 to extract CmR resistance and pSC101 backbone and B0054 terminator,attgttatccgctcacaattCTCTAGAAGCGGCCGCgaattcgagtcactaagggctaac,re primer
+EMP821,28,2,60,Fw Gibson primer on Bba_K274110 to extract R0011-crtEBI operon,attcGCGGCCGCTTCTAGAGaattgtgagcggataacaattgacattgtgagcggataac,fw primer
+EMP822,28,2,60,Re Gibson primer on Bba_K274110 to extract R0011-crtEBI operon,gcttttgactttctgctaatttattatatcagatcctccagcatcaaacctgctgtcgct,re primer
+EMP823,29,1,60,Fw iPCR primer on EM444 plasmid to extract entire plasmid,tacggacggcatgacagtacgcgaattatgcagcgctgccataaccatgagtgataacac,fw primer
+EMP824,29,1,60,Re iPCR primer on EM444 plasmid to extract entire plasmid,agatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcgg,re primer
+EMP823,30,1,60,Fw iPCR primer on EM444 plasmid to extract entire plasmid,tacggacggcatgacagtacgcgaattatgcagcgctgccataaccatgagtgataacac,fw primer
+EMP824,30,1,60,Re iPCR primer on EM444 plasmid to extract entire plasmid,agatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcgg,re primer
+EMP823,31,1,60,Fw iPCR primer on EM444 plasmid to extract entire plasmid,tacggacggcatgacagtacgcgaattatgcagcgctgccataaccatgagtgataacac,fw primer
+EMP824,31,1,60,Re iPCR primer on EM444 plasmid to extract entire plasmid,agatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcgg,re primer
+EMP823,32,1,60,Fw iPCR primer on EM444 plasmid to extract entire plasmid,tacggacggcatgacagtacgcgaattatgcagcgctgccataaccatgagtgataacac,fw primer
+EMP824,32,1,60,Re iPCR primer on EM444 plasmid to extract entire plasmid,agatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcgg,re primer
+EMP825,33,1,60,Fw iPCR primer on EM444 plasmid to extract entire plasmid with LVA tag on YF1,ACTACGCTTTAGTAGCTtaataatactagagaaagaggagaaatactagatgacgaccaa,fw primer
+EMP826,33,1,60,Re iPCR primer on EM444 plasmid to extract entire plasmid with LVA tag on YF1,TTTCGTCGTTTGCAGCattctcgtcggctgccgggagggtgaagcggaaggtcgccccgc,re primer
+EMP827,34,1,60,Fw iPCR primer on EM444 plasmid to extract entire plasmid with LVA tag on FixJ,ACTACGCTTTAGTAGCTtaataatactagtagcggccgctgcagtccggcaaaaaagggc,fw primer
+EMP828,34,1,60,Re iPCR primer on EM444 plasmid to extract entire plasmid with LVA tag on FixJ,TTTCGTCGTTTGCAGCatcgttgagcatgccggcgcgcatcgcgaggcgaaccagctccg,re primer
