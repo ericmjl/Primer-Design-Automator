@@ -418,7 +418,7 @@ with open('primers-with-notes.csv', 'w+') as primers_output:
 email = 'youremailaddress'
 password = 'yourpassword'
 # Find this value in the url with 'key=XXX' and copy XXX below
-spreadsheet_key = '0AuMBw0IU2nRjdHJOZE0zbTRQbG90WFU5Q3doeGpDWWc'
+##spreadsheet_key = 'get_spreadsheet_key'
 # All spreadsheets have worksheets. I think worksheet #1 by default always
 # has a value of 'gid=0'
 ##worksheet_id = 'od6'
